@@ -1,7 +1,5 @@
 # eCommerce Site | Wasatch Bicycles | Backend
 
-<img src="../frontend/gitImg/wasatch-bicycles.png" alt="Wasatch Bicycles" height="500px">
-
 > Wasatch Bicycles is an eCommerce dummy site built with Next.js, Strapi, Auth0 & Stripe.
 
 #### [View The Site](https://nv-marketing.com) - This app is live.
